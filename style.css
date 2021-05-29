@@ -1,0 +1,71 @@
+body {
+  font-family: sans-serif;
+  background-color: #779795;
+  color: #333;
+  padding: 20px 0 28px 0;
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.app-title {
+  text-align: center;
+  font-weight: normal;
+  font-size: 2.6rem;
+}
+
+.graficka {
+  max-width: 650px;
+  padding: 20px;
+  margin: 30px auto;
+  background-color: #fff;
+  box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.4);
+  overflow: hidden;
+}
+
+.graficka h4 {
+  margin: 0 0 6px 0;
+}
+
+.graf-photo {
+  float: left;
+  width: 40%;
+  margin-right: 15px;
+}
+
+.graf-name {
+  font-size: 2rem;
+  font-weight: normal;
+  margin: 0 0 1rem 0;
+}
+
+.platform {
+  font-size: 0.9rem;
+  color: #888;
+  vertical-align: middle;
+}
+
+.info-list {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 17px;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.footer {
+  font-size: 0.7rem;
+  color: #888;
+  text-align: center;
+  margin: 0;
+}
+
+.lista{
+  margin-left:45%;
+  width:50%;
+  border: ;
+}
